@@ -26,7 +26,7 @@ It detects rice grains from images, extracts features, and classifies grain qual
 ---
 
 ## ▶️ How to Run
-1. Clone the repository  
-2. Install dependencies:
-   ```bash
-   pip install opencv-python numpy flask tensorflow keras
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/HarishYamala/Rice-Quality-Evaluation-using-Image-Processing.git
