@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+desktop.ini
+*.docx
+*.lnk
+Rice_Image_Dataset/
+*.h5
+uploads/
